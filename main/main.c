@@ -89,7 +89,7 @@ void app_main() {
     //             rtc_info->epc1, rtc_info->epc2, rtc_info->epc3,
     //             rtc_info->excvaddr, rtc_info->depc);
     // }
-    // 
+    // 03.01.2025
 
     ESP_ERROR_CHECK(nvs_flash_init());
 
